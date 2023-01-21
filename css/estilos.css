@@ -6,6 +6,13 @@ body {
 #cabecera
 {
     background-color: aqua;
+    font-size: 25px;
+}
+
+#cabecera #tagline
+{
+    background-color: aqua;
+    font-size: 16px;
 }
 
 #container
